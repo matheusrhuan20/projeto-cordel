@@ -77,4 +77,5 @@ footer{
     rgba(56, 56, 56, 0.199);
     min-width: 200px;
     max-width: 600px;
+    text-align: left;
 }
